@@ -1,0 +1,15 @@
+.main-page {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-part {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.right-part {
+    display: flex;
+    width:100%;
+}

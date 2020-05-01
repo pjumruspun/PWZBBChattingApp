@@ -1,0 +1,21 @@
+.group-container {
+    width:96%;
+    height:6%;
+    display: flex;
+    padding: 1%;
+    justify-content: space-between;
+    text-align: center;
+    border-top: gray solid 0.5px;
+    /* border-bottom: gray solid 0.5px; */
+    /* 
+    border-left: gray solid 1px;
+    border-right: gray solid 1px; */
+    /* margin: 5px 5px 5px 5px; */
+    margin-bottom: 35px;
+}
+
+.group-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 550;
+}

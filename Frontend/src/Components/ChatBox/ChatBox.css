@@ -1,0 +1,35 @@
+.chatbox {
+  /* margin: auto; */
+  /* width: 60%; */
+  border: 3px solid green;
+  padding: 10px;
+  width: 100%;
+}
+
+.chatbox-container{
+  width: 100%;
+  /* height: 94.5%; */
+  height: 96.5%;
+  background-color: #FDF3DC;
+}
+
+/* .chat {
+  width: 100%
+} */
+
+.scrollbar-chat{
+  width: 100%
+  
+}
+
+.groupName {
+  margin-left: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.groupname-container {
+  border-bottom: solid grey 1px;
+  background-color: #8DCAC8;
+}

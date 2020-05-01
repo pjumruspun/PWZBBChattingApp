@@ -1,0 +1,25 @@
+input {
+    font-size: 32px;
+    width:95%;
+}
+
+.chat-input {
+  padding-left: 10px;
+  width: 95.9%;
+  background-color: #FCFAF1;
+}
+
+.btn {
+    background-color: #8DCAC8; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12.5px 18px 5px 8px; /* Some padding */
+    font-size: 22px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    /* margin-bottom: 20px !important; */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: #0085D1;
+  }
